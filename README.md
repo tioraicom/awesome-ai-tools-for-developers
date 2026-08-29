@@ -5,7 +5,7 @@
 > A curated list of AI tools for coding, debugging, testing, DevOps, APIs, and software development.
 
 <!-- counts:start -->
-![Tools](https://img.shields.io/badge/tools-104-informational)
+![Tools](https://img.shields.io/badge/tools-105-informational)
 ![Categories](https://img.shields.io/badge/categories-13-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -109,6 +109,7 @@ Review that runs on the pull request, before a human opens it.
 
 Generating tests, and keeping end-to-end suites from breaking on every layout change.
 
+- **[agent-qa](https://vostride.com)** — Source-available FSL-1.1-ALv2 harness that runs natural-language web and mobile tests and carries file-backed memory into later runs. `Free` `CLI`
 - **[Antithesis](https://antithesis.com/)** — Deterministic simulation testing that hunts for rare concurrency and state bugs, then replays them exactly. `Paid` `Web` `API`
 - **[Applitools](https://applitools.com/)** — Visual regression testing that compares rendered pages the way a person would, not pixel by pixel. `Freemium` `Web` `API` `CLI`
 - **[Diffblue Cover](https://www.diffblue.com/)** — Writes Java unit tests automatically, aimed at legacy codebases with no coverage at all. `Freemium` `CLI` `JetBrains`

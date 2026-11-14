@@ -53,6 +53,7 @@ Maintained by [TiorAI](https://tiorai.com/), which catalogues AI tools for a liv
 
 Development environments built around a model rather than bolting one on.
 
+- **[Althar](https://althar.ai/)** — Desktop ADE that turns requests into tasks, assigns coding agents, and has another model review the changes. `Open Source` `Windows` `macOS` `Linux`
 - **[Antigravity](https://antigravity.google/)** — Google's agent-first development environment, where the editor is one surface onto a working agent. `Freemium` `Windows` `macOS` `Linux`
 - **[Cursor](https://cursor.com/)** — Editor built around codebase-aware chat and multi-file edits, and the most widely adopted of these. `Freemium` `Windows` `macOS` `Linux` · [free vs paid](https://tiorai.com/compare/cursor-ai-free-vs-paid/)
 - **[Devin Desktop](https://devin.ai/)** — Cognition's desktop environment, formerly Windsurf, pairing an editor with its autonomous agent. `Paid` `Windows` `macOS` `Linux`

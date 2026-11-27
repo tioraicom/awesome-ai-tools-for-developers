@@ -210,6 +210,7 @@ The command line, with a model behind it.
 - **[Butterfish](https://butterfi.sh/)** — Wraps your existing shell so a prompt and a command share the same session and history. `Open Source` `macOS` `Linux` `CLI`
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** — Google's open-source terminal agent, with a generous free tier for personal accounts. `Open Source` `CLI`
 - **[mods](https://github.com/charmbracelet/mods)** — Pipes command output through a model, so it composes with everything else in a shell. `Open Source` `CLI`
+- **[Nexus Shell](https://nexusshell.app/)** — Native macOS SSH workspace with optional terminal AI for explaining remote command output alongside SFTP, Docker, and server monitoring. `Freemium` `macOS`
 - **[OpenCode](https://opencode.ai/)** — Terminal coding agent with a client-server split, so you can drive a remote session from anywhere. `Open Source` `CLI`
 - **[Shell GPT](https://github.com/TheR1D/shell_gpt)** — Generates and runs shell commands from a description, without leaving the prompt. `Open Source` `CLI`
 - **[Warp](https://www.warp.dev/)** — Terminal with block-based output, command search, and an agent that can run multi-step work. `Freemium` `Windows` `macOS` `Linux`
